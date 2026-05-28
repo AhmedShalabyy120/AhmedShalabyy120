@@ -14,7 +14,7 @@ Passionate about transforming data into actionable insights using modern Analyti
 ## 🚀 About Me
 
 - 📊 Analytics Engineer & Senior Data Analyst
-- 🌱 Currently expanding my expertise in **Data Engineering & Cloud Technologies**
+- 🌱 Currently learning Data Engineering & Cloud Technologies
 - 💡 Skilled in Data Visualization, ETL Pipelines, Data Modeling, and Business Intelligence
 - 📫 Reach me at: **ahmedshalabyy120@gmail.com**
 
@@ -23,17 +23,15 @@ Passionate about transforming data into actionable insights using modern Analyti
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-shalaby-5b16a7170" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://kaggle.com/ahmedshalaby120" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/ahmedshalabyy120" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/ahmed-shalaby-5b16a7170" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/ahmedshalaby120" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.hackerrank.com/ahmedshalabyy120" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 ---
@@ -43,31 +41,12 @@ Passionate about transforming data into actionable insights using modern Analyti
 ## 📊 Data Analytics & Business Intelligence
 
 <p align="left">
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="45" height="45"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="45" height="45"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
-</a>
-
-<a href="https://looker.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="Looker" width="45" height="45"/>
-</a>
-
-<a href="https://superset.apache.org/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/apache-superset.svg" alt="Apache Superset" width="45" height="45"/>
-</a>
-
-<a href="https://www.metabase.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="45" height="45"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C8?style=for-the-badge" alt="Apache Superset" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" />
 </p>
 
 ---
@@ -75,65 +54,33 @@ Passionate about transforming data into actionable insights using modern Analyti
 ## ⚙️ Data Engineering & Cloud
 
 <p align="left">
-
-<a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Data Factory" width="45" height="45"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-fabric.svg" alt="Microsoft Fabric" width="45" height="45"/>
-</a>
-
-<a href="https://www.getdbt.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/dbt.svg" alt="dbt" width="45" height="45"/>
-</a>
-
-<a href="https://www.databricks.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" alt="Databricks" width="45" height="45"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-7B68EE?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Databricks-EF3A2E?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
 </p>
 
 ---
 
-## 💻 Programming & Databases
+## 💻 Programming Languages & Databases
 
 <p align="left">
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="45" height="45"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshalabyy120&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshalabyy120&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshalabyy120" alt="GitHub Streak" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ahmedshalabyy120&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
